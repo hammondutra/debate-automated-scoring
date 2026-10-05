@@ -1,0 +1,17 @@
+round,match_id,team,debater,speaker_position,placement,score
+1,R1,Oxford A,Nora,PM,1,82
+1,R1,Oxford A,Owen,DPM,1,82
+1,R1,Cambridge A,Priya,LO,2,80
+1,R1,Cambridge A,Quinn,DLO,2,80
+1,R1,LSE A,Ravi,MG,3,77
+1,R1,LSE A,Sara,GW,3,77
+1,R1,UCL A,Tariq,MO,4,75
+1,R1,UCL A,Uma,OW,4,75
+2,R1,Cambridge A,Priya,LO,1,83
+2,R1,Cambridge A,Quinn,DLO,1,82
+2,R1,UCL A,Tariq,MO,2,81
+2,R1,UCL A,Uma,OW,2,80
+2,R1,Oxford A,Nora,PM,3,78
+2,R1,Oxford A,Owen,DPM,3,78
+2,R1,LSE A,Ravi,MG,4,75
+2,R1,LSE A,Sara,GW,4,74
